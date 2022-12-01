@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/SearchResults.css";
+import "../styles/search-results.css";
 
 const SearchResults =  ({ results }) => {
     if (!results.length) {
